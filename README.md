@@ -31,7 +31,7 @@ Soy una persona trabajadora y dedicada a sus objetivos.
 
 <br><br><br><br><br><br><br><br>
 
-## Technologies currently using
+## Tecnologias que se usar actualmente
 
 
 <div>
