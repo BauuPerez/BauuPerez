@@ -49,7 +49,7 @@ Soy una persona trabajadora y dedicada a sus objetivos.
  
 </div>
 
-## Tools currently using
+## Herramientas que se utilizar actualmente
 
 
 <div>
