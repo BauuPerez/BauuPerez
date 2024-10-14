@@ -9,9 +9,9 @@ Soy una persona trabajadora y dedicada a sus objetivos.
 
 🌱 Actualmente estoy estudiando para obtener una Tecnicatura Universitaria en Programación (TUP) en la UTN Paraná.
 
-💻 Conéctate conmigo en 
+💻 Conéctate conmigo en bautistaperez032@gmail.com
 
-📫 Cómo comunicarse conmigo bautistaperez032@gmail.com
+📫 Cómo comunicarse conmigo +5403435248337
 
 📝 Estudio en la Universidad Tecnológica Nacional – Facultad Regional Paraná
 
