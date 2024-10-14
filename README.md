@@ -89,12 +89,4 @@ Soy una persona trabajadora y dedicada a sus objetivos.
 [linkedin]: https://www.linkedin.com/in/bautista-german-eduardo-perez-6890b1324/
 
 
-
-
-Git Actividad de Git
-
-entoncesuka
-
- entoncesuka
-
  
