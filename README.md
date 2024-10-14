@@ -22,17 +22,16 @@ Soy una persona trabajadora y dedicada a sus objetivos.
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Actividades</b></i>
 </p>
- 
+
 <p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thenuka99&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="thenuka" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BauuPerez&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="BauuPerez" />
 </p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=thenuka99&show_icons=true&locale=en&theme=chartreuse-dark" alt="thenuka" width="410"/>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=BauuPerez&show_icons=true&locale=en&theme=chartreuse-dark" alt="BauuPerez" width="410"/>
 </p>
 
 <br><br><br><br><br><br><br><br>
 
-## Tecnologias que se usar actualmente
-
+## Tecnologias que se usan actualmente
 
 <div>
   <img  alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -46,8 +45,8 @@ Soy una persona trabajadora y dedicada a sus objetivos.
   <img  alt="spring" src ="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img  alt="python" src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img  alt="bootstrap" src ="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
- 
 </div>
+
 
 ## Herramientas que se utilizar actualmente
 
