@@ -8,9 +8,13 @@ Soy una persona trabajadora y dedicada a sus objetivos.
 
 
 🌱 Actualmente estoy estudiando para obtener una Tecnicatura Universitaria en Programación (TUP) en la UTN Paraná.
+
 💻 Conéctate conmigo en 
+
 📫 Cómo comunicarse conmigo bautistaperez032@gmail.com
+
 📝 Estudio en la Universidad Tecnológica Nacional – Facultad Regional Paraná
+
 💬 Pregúntame sobre: ​​cualquier cosa, que estoy dispuesto a cualquier propuesta
 
 - 	<img src="https://komarev.com/ghpvc/?username=thenuka99&label=Profile%20views&color=brightgreen&style=plastic" alt="thenuka's profile views" /> 
