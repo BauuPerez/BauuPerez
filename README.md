@@ -43,7 +43,6 @@ Soy una persona trabajadora y dedicada a sus objetivos.
   <img  alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img  alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
   <img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />	
   <img alt="c-sharp" src="https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img  alt="java" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img  alt="spring" src ="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
