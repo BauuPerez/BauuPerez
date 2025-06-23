@@ -149,19 +149,6 @@
 
 ---
 
-## 📈 Proyectos Destacados
-
-<div align="center">
-  <a href="https://github.com/BauuPerez/proyecto-destacado-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BauuPerez&repo=proyecto-destacado-1&theme=tokyonight&hide_border=true" alt="Proyecto 1"/>
-  </a>
-  <a href="https://github.com/BauuPerez/proyecto-destacado-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BauuPerez&repo=proyecto-destacado-2&theme=tokyonight&hide_border=true" alt="Proyecto 2"/>
-  </a>
-</div>
-
----
-
 ## 🎯 Objetivos 2025
 
 <div align="center">
@@ -177,32 +164,6 @@
 </div>
 
 ---
-
-## 📊 Actividad de Codificación
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-## 💡 Frase del Día
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
----
-
-## 📈 Métricas del Perfil
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BauuPerez&label=Visitas%20al%20perfil&color=0e75b6&style=for-the-badge" alt="Contador de visitas" />
-  <img src="https://img.shields.io/github/followers/BauuPerez?label=Seguidores&style=for-the-badge&color=blue" alt="Seguidores"/>
-  <img src="https://img.shields.io/github/stars/BauuPerez?label=Estrellas&style=for-the-badge&color=yellow" alt="Estrellas"/>
-</div>
-
----
-
 <div align="center">
   <h2>🤝 ¡Colaboremos Juntos!</h2>
   <p>
