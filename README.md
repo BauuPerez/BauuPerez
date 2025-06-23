@@ -13,11 +13,11 @@
 - 📍 **Ubicación:** Paraná, Entre Ríos, Argentina
 - 🎓 **Estudiante:** Tecnicatura Universitaria en Programación (TUP) - UTN Paraná
 - 📜 **Certificaciones:** 
-  - 🤖 Machine Learning & IA (UTN-BA)
-  - 📊 Data Analytics (UTN-BA)
-  - 💻 Programador .NET (Udemy)
+  - 🤖 Machine Learning & IA (UTN-BA) - 2024
+  - 📊 Data Analytics (UTN-BA) - 2024
+  - 💻 Programador .NET (Udemy) - 2022
 - 💡 **Apasionado por:** Desarrollo web, IA, análisis de datos y aprendizaje continuo
-- 🌱 **Actualmente aprendiendo:** Cloud Computing, DevOps y arquitecturas modernas
+- 🌱 **Actualmente aprendiendo:** Ciberseguridad y nuevas tecnologías
 - 👥 **Abierto a:** Colaboraciones, proyectos desafiantes y nuevas oportunidades
 - ⚡ **Dato curioso:** Me encanta resolver problemas complejos con código elegante
 
@@ -59,16 +59,22 @@
 
 ## 💻 Stack Tecnológico
 
+### 💻 **Lenguajes de Programación**
+<div>
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+</div>
+
 ### 🎨 **Frontend Development**
 <div>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 </div>
 
@@ -76,47 +82,42 @@
 <div>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img alt="REST API" src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white"/>
 </div>
 
 ### 🗄️ **Bases de Datos**
 <div>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div>
 
-### 🤖 **IA & Data Science**
+### 🔧 **Herramientas de Desarrollo**
 <div>
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img alt="Pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img alt="NumPy" src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
-  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-</div>
-
-### 🔧 **Herramientas & DevOps**
-<div>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+  <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16?style=for-the-badge&logo=Eclipse&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</div>
+
+### 🗃️ **Gestión de Bases de Datos**
+<div>
+  <img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
+  <img alt="pgAdmin" src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 
 ### 📊 **Analytics & BI**
 <div>
   <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
-  <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img alt="R Studio" src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white"/>
+</div>
+
+### 🎨 **Diseño & Contenido**
+<div>
+  <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
 </div>
 
 ---
@@ -128,15 +129,23 @@
 </div>
 
 ### 📜 **Certificaciones Completadas**
-- 🎓 **Machine Learning & IA** - UTN Buenos Aires
-- 📊 **Data Analytics** - UTN Buenos Aires  
-- 💻 **Programador .NET** - Udemy
-- 🌐 **Desarrollo Web Full Stack** - Autodidacta
+- 🎓 **Machine Learning & IA** - UTN Buenos Aires (2024)
+- 📊 **Data Analytics** - UTN Buenos Aires (2024)
+- 💻 **Programador .NET** - Udemy (2022)
 
 ### 🎯 **En Progreso**
-- ☁️ **AWS Cloud Practitioner**
-- 🐳 **Docker & Kubernetes**
-- 📱 **React Native Development**
+- 🔐 **Ciberseguridad y Cibercrimen** - Universidad Siglo 21
+- 🎓 **Tecnicatura Universitaria en Programación** - UTN Paraná
+
+---
+
+## 🎓 Educación
+
+### **Educación Actual**
+- 📚 **Tecnicatura Universitaria en Programación** - UTN Paraná (2022 - Actualidad)
+
+### **Educación Previa**
+- ⚙️ **Ingeniería Electromecánica** - UTN Paraná (2019 - 2022) - Inconcluso
 
 ---
 
@@ -160,10 +169,10 @@
 | Objetivo | Estado | Fecha Límite |
 |----------|--------|--------------|
 | ✅ Completar TUP | En progreso | Diciembre 2025 |
+| 🔐 Certificación en Ciberseguridad | En progreso | Junio 2025 |
 | 🚀 Contribuir a 10+ proyectos OSS | 3/10 | Diciembre 2025 |
-| ☁️ Certificación AWS | Planificado | Junio 2025 |
-| 💼 Primer trabajo como dev | En búsqueda | Marzo 2025 |
-| 📱 App móvil publicada | Planificado | Agosto 2025 |
+| 💼 Primer trabajo como desarrollador | En búsqueda | Marzo 2025 |
+| ☁️ Aprender tecnologías cloud | Planificado | Agosto 2025 |
 
 </div>
 
@@ -173,14 +182,6 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
----
-
-## 🎵 Spotify - Música para Programar
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=tu_usuario_spotify&count=3" alt="Spotify recently played"/>
-</div>
 
 ---
 
@@ -228,46 +229,3 @@
   <p><strong>💻 "El código es poesía, y cada bug es una oportunidad de aprender algo nuevo"</strong></p>
 </div>
 ```
-
-He mejorado significativamente tu README con las siguientes mejoras:
-
-## ✨ **Mejoras Implementadas:**
-
-### 🎨 **Diseño Visual**
-- **Typing animation** en el encabezado para mayor dinamismo
-- **Tema consistente** (Tokyo Night) en todas las estadísticas
-- **Badges modernos** con mejor diseño y colores
-- **Secciones organizadas** con iconos y separadores visuales
-
-### 📊 **Estadísticas Mejoradas**
-- **Gráfico de contribuciones** adicional
-- **Trofeos de GitHub** para mostrar logros
-- **Contador de visitas** más prominente
-- **Métricas del perfil** (seguidores, estrellas)
-
-### 🚀 **Contenido Enriquecido**
-- **Sección de proyectos destacados** con cards
-- **Tabla de objetivos 2025** con estado de progreso
-- **Certificaciones organizadas** por categorías
-- **Stack tecnológico expandido** con más herramientas
-
-### 🎵 **Elementos Interactivos**
-- **Integración con Spotify** (opcional)
-- **Frase motivacional** diaria
-- **Actividad de codificación** con WakaTime
-
-### 📱 **Responsive y Profesional**
-- **Mejor organización** de la información
-- **Enlaces de contacto** más visibles
-- **Call-to-action** claro para colaboraciones
-- **Footer atractivo** con mensaje inspirador
-
-### 🔧 **Funcionalidades Adicionales**
-- Soporte para **GitHub Actions** (WakaTime, Spotify)
-- **Pins de repositorios** destacados
-- **Métricas en tiempo real**
-- **Diseño mobile-friendly**
-
-¡Tu README ahora se ve mucho más profesional y atractivo para reclutadores y colaboradores potenciales!
-
-
