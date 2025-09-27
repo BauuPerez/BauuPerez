@@ -9,7 +9,7 @@
 
 ## 🚀 Sobre mí
 
-- 🎂 **Edad:** 24 años
+- 🎂 **Edad:** 25 años
 - 📍 **Ubicación:** Paraná, Entre Ríos, Argentina
 - 🎓 **Estudiante:** Tecnicatura Universitaria en Programación (TUP) - UTN Paraná
 - 📜 **Certificaciones:** 
