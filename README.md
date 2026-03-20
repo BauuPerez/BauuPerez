@@ -11,11 +11,14 @@
 
 - 🎂 **Edad:** 25 años
 - 📍 **Ubicación:** Paraná, Entre Ríos, Argentina
-- 🎓 **Estudiante:** Tecnicatura Universitaria en Programación (TUP) - UTN Paraná
+- 🎓 **Recibido:** Tecnicatura Universitaria en Programación (TUP) - UTN Paraná
 - 📜 **Certificaciones:** 
   - 🤖 Machine Learning & IA (UTN-BA) - 2024
   - 📊 Data Analytics (UTN-BA) - 2024
   - 💻 Programador .NET (Udemy) - 2022
+  - 🔐 Experto en Cibercrimen y Ciberseguridad (Universidad Siglo 21) - 2025  
+    - 🕵️ Investigación Digital  
+    - 🧠 Análisis del Comportamiento Aplicado
 - 💡 **Apasionado por:** Desarrollo web, IA, análisis de datos y aprendizaje continuo
 - 🌱 **Actualmente aprendiendo:** Ciberseguridad y nuevas tecnologías
 - 👥 **Abierto a:** Colaboraciones, proyectos desafiantes y nuevas oportunidades
@@ -142,7 +145,7 @@
 ## 🎓 Educación
 
 ### **Educación Actual**
-- 📚 **Tecnicatura Universitaria en Programación** - UTN Paraná (2022 - Actualidad)
+- 📚 **Tecnicatura Universitaria en Programación** - UTN Paraná (2022 - Finalizado)
 
 ### **Educación Previa**
 - ⚙️ **Ingeniería Electromecánica** - UTN Paraná (2019 - 2022) - Inconcluso
